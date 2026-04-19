@@ -22,7 +22,7 @@ Especially for people who are not too experienced, this might be difficult
 to achieve without doing too much or clashing with the theme extension,
 therefore I published this slim extension.
 
-Concerning the Theme Camino extension I've still to links which might be helpful:
+Concerning the Theme Camino extension I've still two links which might be helpful:
  * [Preview Page with Appearance toggle](https://davidbruchmann.github.io/typo3-theme-camino/)
- * [The Camin Theme extension itself with Appearance toggle](https://github.com/DavidBruchmann/typo3-theme-camino)
+ * [The Camino Theme extension itself with Appearance toggle](https://github.com/DavidBruchmann/typo3-theme-camino)
 
