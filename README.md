@@ -22,6 +22,13 @@ Especially for people who are not too experienced, this might be difficult
 to achieve without doing too much or clashing with the theme extension,
 therefore I published this slim extension.
 
+## Usage
+
+In the site settings where a site-set can be selected, you just select only one
+sitepackage and this is: `Theme: Camino --individualized`.
+
+## Miscellaneous
+
 Concerning the Theme Camino extension I've still two links which might be helpful:
  * [Preview Page with Appearance toggle](https://davidbruchmann.github.io/typo3-theme-camino/)
  * [The Camino Theme extension itself with Appearance toggle](https://github.com/DavidBruchmann/typo3-theme-camino)
