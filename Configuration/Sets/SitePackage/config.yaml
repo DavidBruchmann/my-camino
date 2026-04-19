@@ -1,0 +1,4 @@
+name: wdb/my-camino
+label: 'Theme: Camino --individualized'
+dependencies:
+  - typo3/theme-camino
